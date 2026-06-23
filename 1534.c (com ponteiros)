@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main(){
+    
+    int aux, linha, coluna;
+    int *P_aux = &aux, *P_linha = &linha, *P_coluna = &coluna;
+    
+    while(scanf("%d", P_aux) != EOF){
+        
+        for(*P_linha = 0; *P_linha < *P_aux; (*P_linha)++){
+            for(*P_coluna = 0; *P_coluna < *P_aux; (*P_coluna)++){
+                
+                printf("%c", (*P_linha + *P_coluna == *P_aux - 1) ? '2' : (*P_linha == *P_coluna) ? '1' : '3');
+            }
+            printf("\n");
+        }
+    } 
+  
+    return 0;
+}
