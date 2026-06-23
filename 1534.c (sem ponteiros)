@@ -1,0 +1,42 @@
+#include <stdio.h>
+
+void print_coluna(int A, int B, int C){
+    
+    if(B == C){
+        return;
+    }
+    
+    if(A + B == C - 1){
+        printf("2");
+    }else if(A == B){
+        printf("1");
+    }else{
+        printf("3");
+    }
+    
+    print_coluna(A, B + 1, C);
+}
+
+void print_linha(int A, int B){
+    
+    if (A == B){
+        return;
+    }
+    
+    print_coluna(A, 0, B);
+    printf("\n");
+    
+    print_linha(A + 1, B);
+}
+
+int main(){
+    
+    int aux;
+    
+    while(scanf("%d", &aux) != EOF){
+        
+        print_linha(0, aux);
+    }
+    
+    return 0;
+}
