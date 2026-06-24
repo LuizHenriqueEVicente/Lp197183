@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1234
+Data        : 
+Objetivo    : imprimir um texto alternando apenas as letras entre maiusculas e minusculas
+Aprendizado : uso de nova biblioteca, função do FGETS, e melhor entendimento de: (!=)
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
