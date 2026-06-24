@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1015
+Data        : 
+Objetivo    : distancia entre dois pontos
+Aprendizado : diferentes bibliotecas, função e ponteiro.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <math.h>
 
