@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1024
+Data        : 
+Objetivo    : criptografia
+Aprendizado : uso e aplicação de strings
+-------------------------------------------------------------------------- */
 #include <string.h>
 #include <stdio.h>
 #include <ctype.h>
