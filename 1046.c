@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1046
+Data        : 
+Objetivo    : tempo de duração de um jogo
+Aprendizado : uso de funções
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main(){
