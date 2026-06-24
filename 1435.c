@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1435
+Data        : 
+Objetivo    : imprimir uma matriz com camadas com numeros crescentes de fora para dentro (1>2>3>4...)
+Aprendizado : uso e manipulação de matrizes usando recursividade
+-------------------------------------------------------------------------- */
+#include <stdio.h>
 #include <stdio.h>
 
 void gerar_matriz(int N, int matriz[N][N], int camada, int inicio, int fim){// recursivo pra preencher de fora pra dentro.
