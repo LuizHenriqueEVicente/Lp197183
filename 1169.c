@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1169
+Data        : 
+Objetivo    : calculo para o crescimento exponencial de graos baseado em casas de um tabuleiro
+Aprendizado : uso de recursividade e introdução ao ULL(unsigned long long)
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 unsigned long long calculo_graos(int x){
