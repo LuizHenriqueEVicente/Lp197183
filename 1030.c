@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1030
+Data        : 
+Objetivo    : calculo para o problema de josephus
+Aprendizado : rescursividade
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int elementos(int n, int m) {
