@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1029
+Data        : 
+Objetivo    : calcular a sequencia de fibonacci
+Aprendizado : recursividade 
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <string.h>
 
