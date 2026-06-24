@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1028
+Data        : 
+Objetivo    : decobrir o numero de pilhas para a quantidade de figurinhas
+Aprendizado : uso de função recursiva
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int mdc(int N1, int N2){
