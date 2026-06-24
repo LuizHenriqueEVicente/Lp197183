@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1441
+Data        : 23/06/2026
+Objetivo    : calcular e devolver o maior valor da "sequencia de granizo" até que a entrada seja "0"
+Aprendizado : uso de recursividade
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int MAIOR(int presente, int maior_ate_agora){
