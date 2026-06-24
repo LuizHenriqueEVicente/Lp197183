@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1241
+Data        : 
+Objetivo    : verificar se uma sequencia numerica encaixa dentro de outra por complementariedade
+Aprendizado : uso de strings (bom caminho para um codigo que bata sequencias de DNA)(ver a possibilidade de um que transcreva DNA em RNA.)
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <string.h>
 
