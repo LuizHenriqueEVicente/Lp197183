@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C++
+Problema    : https://judge.beecrowd.com/pt/problems/view/1180
+Data        : 
+Objetivo    : achar o menor número e qual posição ele esta dentro de um vetor
+Aprendizado : uso e manipulação de vetores (mas em C++)
+-------------------------------------------------------------------------- */
 #include <iostream>
 #include <vector>
 
