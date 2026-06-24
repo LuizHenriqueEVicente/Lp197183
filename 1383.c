@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1338
+Data        : 23/06/2026
+Objetivo    : escrever um programa de checagem de matrizes para bater se a resposta de um sudoko está correta ou não
+Aprendizado : compilado de tudo que foi visto até o momento, em principal uso de função recursiva, matrizes e outras maneiras de estruturar o codigo para deixa-lo mais elegante como: (#define, ? :)
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 #define TAMANHO 9
