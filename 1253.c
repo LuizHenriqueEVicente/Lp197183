@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1253
+Data        : 
+Objetivo    : descriptografia
+Aprendizado : uso de strings e tabela ASCII
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <string.h>
 
