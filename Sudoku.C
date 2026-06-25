@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Luiz Henrique Estrasulas Vicente
+Linguagem   : C
+Problema    : Jogo sudoku.
+Data        : 24/06/2026
+Objetivo    : fazer um jogo de sudoku interativo.
+Aprendizado : uso e manipulação de matrizes, recursividade.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 #define TAMANHO 9
